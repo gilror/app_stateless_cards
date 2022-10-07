@@ -44,17 +44,17 @@ Herramientas usadas:
 
 # Datos del estudiante
 
-Universidad: Universidad Tecnológica de Xicotepec de Juárez.
-Área: Tecnologías de la Información y Comunicación.
-Carrera: Desarrollo de Software Multiplataforma.
+- Universidad: Universidad Tecnológica de Xicotepec de Juárez.
+- Área: Tecnologías de la Información y Comunicación.
+- Carrera: Desarrollo de Software Multiplataforma.
 
-Materia: Desarrollo Móvil Integral.
-Docente: M.T.I. Marco Antonio Ramírez Hernández
-Alumna: Gilberto Rodríguez Ramírez
-Matricula: 191004
-Cuatrimestre: 10
-Grupo: "B"
-Periodo: septiembre - diciembre 2022
+- Materia: Desarrollo Móvil Integral.
+- Docente: M.T.I. Marco Antonio Ramírez Hernández
+- Alumna: Gilberto Rodríguez Ramírez
+- Matricula: 191004
+- Cuatrimestre: 10
+- Grupo: "B"
+- Periodo: septiembre - diciembre 2022
 
 <hr>
 
