@@ -1,0 +1,4 @@
+#Thu Oct 06 20:44:32 CDT 2022
+base.0=D\:\\Documentos\\10 Cuatrimestre\\PMI\\app_3\\app_stateless_cards\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
